@@ -29,6 +29,7 @@ public class CommentController {
         System.out.println("1000");
         System.out.println("1000");
         System.out.println("1000");
+        System.out.println("1000");
 
         Post post = postRepository.findById(postId).get();
 
